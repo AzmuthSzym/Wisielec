@@ -1,0 +1,8 @@
+E:\Szymon\c#\Wisielec\Wisielec_poprawny\bin\Release\Wisielec_poprawny.exe
+E:\Szymon\c#\Wisielec\Wisielec_poprawny\bin\Release\Wisielec_poprawny.pdb
+E:\Szymon\c#\Wisielec\Wisielec_poprawny\obj\Release\ResolveAssemblyReference.cache
+E:\Szymon\c#\Wisielec\Wisielec_poprawny\obj\Release\Wisielec_poprawny.Form1.resources
+E:\Szymon\c#\Wisielec\Wisielec_poprawny\obj\Release\Wisielec_poprawny.Properties.Resources.resources
+E:\Szymon\c#\Wisielec\Wisielec_poprawny\obj\Release\Wisielec_poprawny.csproj.GenerateResource.Cache
+E:\Szymon\c#\Wisielec\Wisielec_poprawny\obj\Release\Wisielec_poprawny.exe
+E:\Szymon\c#\Wisielec\Wisielec_poprawny\obj\Release\Wisielec_poprawny.pdb
